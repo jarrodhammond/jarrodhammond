@@ -1,4 +1,4 @@
-### Hi there, I'm Jarrod Hammond. I'm a uni graduate and front-end web developer. 👋
+### Hi there, I'm Jarrod Hammond. I'm a uni graduate and front-end web developer that loves JavaScript a bit too much. 👋
 
 <!--
 **jarrodhammond/jarrodhammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
