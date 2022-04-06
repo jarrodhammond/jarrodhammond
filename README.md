@@ -1,4 +1,4 @@
-### Hi there, I'm Jarrod Hammond. 👋 I'm a uni graduate and front-end web developer that loves JavaScript and React a bit too much. 
+### Hi there, I'm Jarrod Hammond. 👋 I'm a uni graduate and web developer that loves JavaScript and React a bit too much. 
 ### I'm still currently putting my previous projects on Github so stay tuned.
 
 <!--
