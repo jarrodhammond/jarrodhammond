@@ -1,5 +1,5 @@
 ### Hi there, I'm Jarrod Hammond. 👋 I'm a uni graduate and web developer that loves JavaScript and React a bit too much. 
-### I'm still currently putting my previous projects on Github so stay tuned.
+### I'm still currently putting my previous projects on Github so bear with me as I do.
 
 <!--
 **jarrodhammond/jarrodhammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
