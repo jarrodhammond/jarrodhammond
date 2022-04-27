@@ -1,7 +1,7 @@
 ### Hi there, I'm Jarrod. 👋 I'm a web and software developer that loves JavaScript and React a bit too much.
 
 - ✏️ Come check out [my portfolio](https://www.jarrodhammond.com/)
-- 💼 Visit my [LinkedIn profile] (https://www.linkedin.com/in/jarrodhammond)
+- 💼 Visit my [LinkedIn profile](https://www.linkedin.com/in/jarrodhammond/)
 - ✉️ Give me a buzz at: [hammond.jarrod@gmail.com](mailto:hammond.jarrod@gmail.com)
 
 <!--
