@@ -1,4 +1,4 @@
-### Hi there, I'm Jarrod Hammond. 👋 I'm a web and software developer that loves JavaScript and React a bit too much.
+### Hi there, I'm Jarrod. 👋 I'm a web and software developer that loves JavaScript and React a bit too much.
 
 - 💼 Come check out [my portfolio](https://www.jarrodhammond.com/)
 - ✉️ Give me a buzz at: [hammond.jarrod@gmail.com](mailto:hammond.jarrod@gmail.com)
