@@ -2,7 +2,7 @@
 
 - ✏️ Come check out [my portfolio](https://www.jarrodhammond.com/)
 - 💼 Visit my [LinkedIn profile](https://www.linkedin.com/in/jarrodhammond/)
-- ✉️ Give me a buzz at: [hammond.jarrod@gmail.com](mailto:hammond.jarrod@gmail.com)
+- ✉️ Give me a buzz at: [jarrodhammond@proton.me](mailto:jarrodhammond@proton.me)
 
 <!--
 **jarrodhammond/jarrodhammond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
